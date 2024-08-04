@@ -22,7 +22,7 @@ Analyze & visualize Adidas USA sales data to provide insights into total sales, 
 
 
 
-### Tableau | British Airways Review Dashboard
+### Tableau | British Airways Review Dashboard<br>
 Analyze & visualize customer reviews of British Airways focusing on various service metrics such as cabin staff service, entertainment, food & beverages, ground service, seat comfort & value for money.
 
 
