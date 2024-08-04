@@ -9,7 +9,7 @@ Analyze & visualize Adidas USA sales data to provide insights into total sales, 
 
 
 
-<img src="https://github.com/user-attachments/assets/c4e43bf8-3c24-46bd-b662-c8158b19bead" alt="Adidas Dashboard Smaller size" width="300" height="150" />
+<img src="https://github.com/user-attachments/assets/c4e43bf8-3c24-46bd-b662-c8158b19bead" alt="Adidas Dashboard Smaller size" width="400" height="200" />
 
 
 .
