@@ -9,10 +9,10 @@ Analyze & visualize Adidas USA sales data to provide insights into total sales, 
 
 
 
-<img src="https://github.com/user-attachments/assets/c4e43bf8-3c24-46bd-b662-c8158b19bead" alt="Adidas Dashboard Smaller size" width="500" height="300" />
+<img src="https://github.com/user-attachments/assets/c4e43bf8-3c24-46bd-b662-c8158b19bead" alt="Adidas Dashboard Smaller size" width="500" height="250" />
 
 
-.
+
 
 ### Tableau | British Airways Review Dashboard
 Analyze & visualize customer reviews of British Airways focusing on various service metrics such as cabin staff service, entertainment, food & beverages, ground service, seat comfort & value for money.
@@ -24,7 +24,7 @@ Analyze & visualize customer reviews of British Airways focusing on various serv
 
 
 
-![British Airways dashboard smaller size](https://github.com/user-attachments/assets/357aa9e3-e888-44b5-b8c5-3f954686a686)
+<img src="https://github.com/user-attachments/assets/357aa9e3-e888-44b5-b8c5-3f954686a686" alt ="British Airways dashboard smaller size" width="500" height="250" />
 
 
 
@@ -35,6 +35,11 @@ Analyze employee attrition & satisfaction within a company providing insights in
 
 
 
+
+
+
+
+<img src="https://github.com/user-attachments/assets/e006615d-ff98-4866-bc3d-542197e56a04" alt="HR analytics dashboard smaller size" width="500" height="250" />
 
 
 
