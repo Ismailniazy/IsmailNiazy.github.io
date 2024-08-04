@@ -1,6 +1,6 @@
 # Data Engineer | Data Analyst
 ## Featured Projects
-### [Tableau | Adidas USA Sales Dashboard](https://ismailniazy.github.io/Adidas-USA-Sales-Dashboard-Project/)
+### Tableau | Adidas USA Sales Dashboard
 Analyze & visualize Adidas USA sales data to provide insights into total sales, profit, units sold & sales performance by month, retailer, state & sales method.
 
 
