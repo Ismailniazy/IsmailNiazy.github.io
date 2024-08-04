@@ -44,4 +44,3 @@ Analyze employee attrition & satisfaction within a company providing insights in
 
 
 
-![HR analytics dashboard smaller size](https://github.com/user-attachments/assets/b6fe4f0d-fc2f-4fe7-830c-8d6498911c58)
