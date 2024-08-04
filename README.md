@@ -5,6 +5,9 @@ Analyze & visualize Adidas USA sales data to provide insights into total sales, 
 
 
 
+
+
+
 ![Adidas Dashboard Smaller size](https://github.com/user-attachments/assets/8d56f3e6-2f2e-42e4-8d29-2ea7b36ccd2e)
 
 
@@ -14,13 +17,19 @@ Analyze & visualize customer reviews of British Airways focusing on various serv
 
 
 
+
+
+
 ![British Airways dashboard smaller size](https://github.com/user-attachments/assets/357aa9e3-e888-44b5-b8c5-3f954686a686)
 
 
 
 
 ### Tableau | HR Analytics Dashboard
-Analyze employee attrition & satisfaction within a company providing insights into department-wise attrition, education field-wise attrition, employee demographics & job satisfaction ratings
+Analyze employee attrition & satisfaction within a company providing insights into department-wise attrition, education field-wise attrition, employee demographics & job satisfaction ratings.
+
+
+
 
 
 
